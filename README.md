@@ -7,8 +7,16 @@ To establish the **Cost Benefit** of using Solar vis-a-vis purchasing Electricit
 Determined electricty prodution in the Main grid through aggegate prodcution per hour,from midnight 0000hrs to 2300hrs
 Also,determined power consumption by aggregating consumption as influnced by demand.
 That is,Solar generetd and Electricty consumption.
+
 From these established metrics,we establish the amount of Elcetricty this cosnumer will purchase from the Electricty provider,
 both hourly and in aggregateto offset the insufficient production from Solar.
+
+Also,from these the hourly production data against consumption,we establish the amount of Solar that is generated and not consumed.
+We aggregate this unused solar energy as 'Excess solar'.
+
+
+**Modelling**
+
 
 
 This is a Cost Analysis of using Solar energy vis-a-vis buying Electricity from the Main Power Grid.
