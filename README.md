@@ -1,5 +1,11 @@
 **OBJECTIVE**
+
 To establish the **Cost Benefit** of using Solar vis-a-vis purchasing Electricity from the Power Grid.
+
+**Methodology**
+
+Determined electricty prodution in the Main grid through aggegate prodcution per hour,from midnight to 11:59hrs
+Also,determined power consumption by aggregating consumption as influnced by demand.
 
 
 This is a Cost Analysis of using Solar energy vis-a-vis buying Electricity from the Main Power Grid.
