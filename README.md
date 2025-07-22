@@ -17,9 +17,7 @@ We aggregate this unused solar energy as 'Excess solar'.
 
 **Modelling**
 
+Using Excess solar,we aggregate this unutilised energy,hour on hour and 'store' it to a battery.
+From the charge level of this prototype battery,we establish the true excess solar energy against hourly electricity consumption inorder to test the viability of Solar as viable anlternative to purchasing power the Main Grid.
 
-
-This is a Cost Analysis of using Solar energy vis-a-vis buying Electricity from the Main Power Grid.
-Additionally,it goes further to project the benefits of having a battery on the account of storing excess power generated from Solar.
-In the end,through the analaysis,an empirical(evidence based)decision is made,on the profitability/benefit of using Solar versus consuming power from the main grid
-and under what conditions would make this beneficial.
+**Results**
