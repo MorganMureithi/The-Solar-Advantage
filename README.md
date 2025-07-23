@@ -21,3 +21,9 @@ Using Excess solar,we aggregate this unutilised energy,hour on hour and 'store' 
 From the charge level of this prototype battery,we establish the true excess solar energy against hourly electricity consumption inorder to test the viability of Solar as viable anlternative to purchasing power the Main Grid.
 
 **Results**
+
+The outcome of this simulation,is that Electricty purchase from the Main grid **dropped bt 35%**,while utilising Solar energy produced 
+and excess of it stored in the batterry.
+Hurrah!
+
+However,given the unpredict
