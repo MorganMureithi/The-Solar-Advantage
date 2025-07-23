@@ -9,7 +9,7 @@ Also,determined power consumption by aggregating consumption as influnced by dem
 That is,Solar generetd and Electricty consumption.
 
 From these established metrics,we establish the amount of Elcetricty this cosnumer will purchase from the Electricty provider,
-both hourly and in aggregateto offset the insufficient production from Solar.
+both hourly and in aggregate to offset the insufficient production from Solar.
 
 Also,from these the hourly production data against consumption,we establish the amount of Solar that is generated and not consumed.
 We aggregate this unused solar energy as 'Excess solar'.
@@ -18,12 +18,19 @@ We aggregate this unused solar energy as 'Excess solar'.
 **Modelling**
 
 Using Excess solar,we aggregate this unutilised energy,hour on hour and 'store' it to a battery.
-From the charge level of this prototype battery,we establish the true excess solar energy against hourly electricity consumption inorder to test the viability of Solar as viable anlternative to purchasing power the Main Grid.
+From the charge level of this prototype battery,we establish the true excess solar energy against hourly electricity consumption inorder to test the viability of Solar as an alternative to purchasing power the Main Grid.
 
 **Results**
 
-The outcome of this simulation,is that Electricty purchase from the Main grid **dropped bt 35%**,while utilising Solar energy produced 
+The outcome of this simulation,is that Electricty purchase from the Main grid **dropped by 35%**,while utilising Solar energy produced 
 and excess of it stored in the batterry.
 Hurrah!
 
-However,given the unpredict
+However,in order to beat anticipated inflation rate scenarios of 4% and 4.25% for electrcity purchased from the grid,
+solar panels ought to generate adequate elcetrcity for immediate consumption,
+excess to be stored in batteries so that to reduce reliance on Grid power.
+Hence,maintain and increase savings gained.
+
+Meaning,for such a feat to be achived and for Naomi to enjoy the fruits of her inverstemnts,location of her house is an important factor.
+So that it can be in a hot area where solar generation is at an all time high inorder to alwyas benefit from her investments.
+Otherwise,failure to take into consideration location as a factor of her investment,solar benefits will be short-lived and non-beneficial in the long run.
