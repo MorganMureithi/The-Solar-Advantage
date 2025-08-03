@@ -34,3 +34,7 @@ Hence,maintain and increase savings gained.
 Meaning,for such a feat to be achived and for Naomi to enjoy the fruits of her inverstemnts,location of her house is an important factor.
 So that it can be in a hot area where solar generation is at an all time high inorder to alwyas benefit from her investments.
 Otherwise,failure to take into consideration location as a factor of her investment,solar benefits will be short-lived and non-beneficial in the long run.
+
+**Tool utilised**
+
+Python
